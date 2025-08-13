@@ -1,1 +1,7 @@
-# AlzheimerPrediction
+# Alzheimer Prediction
+
+Alzheimer’s Disease (AD) presents a global health challenge, requiring accurate and early detection for effective clinical intervention. Our project focuses on machine learning and neural network approaches to predict binary-coded Clinical Dementia Rating (CDR) scores in cross-sectional (OASIS-I) and longitudinal (OASIS-II) datasets. Testing six machine learning models and two neural networks, logistic regression achieved the highest balanced accuracy of 80.7% (10-fold cross-validation) for cross-sectional CDR prediction, while LSTM showed a comparable 80% balanced accuracy for longitudinal CDR prediction. This project contributes to AD detection efforts using machine learning models and neural networks from electronic health records. The full analysis is available on Kaggle: https://www.kaggle.com/code/giuliobenedetti/alzheimer-s-disease-prediction.
+
+Marcus, D. S., Wang, T. H., Parker, J., Csernansky, J. G., Morris, J. C., & Buckner, R. L. (2007). Open Access Series of Imaging Studies (OASIS): cross-sectional MRI data in young, middle aged, nondemented, and demented older adults. Journal of cognitive neuroscience, 19(9), 1498-1507.
+
+Marcus, D. S., Fotenos, A. F., Csernansky, J. G., Morris, J. C., & Buckner, R. L. (2010). Open access series of imaging studies: longitudinal MRI data in nondemented and demented older adults. Journal of cognitive neuroscience, 22(12), 2677-2684.
